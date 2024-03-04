@@ -9,9 +9,9 @@ This section showcases the various Data Analysis projects completed using SQL an
 ## Problem Statement
 
 The Adventure Works company represents a bicycle manufacturer that sells bicycles and related accessories to global markets. The dataset contains 
-* Product data ()
-* Customer data ()
-* Sales data ()
+* Product data (Product Key, Product Price, SKU Type, etc.,)
+* Customer data (Customer Key, First Name, Last Name, Income Level, etc.,)
+* Sales data (Order Date, Territory Key, Order Quantity, etc.,)
 
 The following dashboards helps paint a picture as to how the store operates under various circumstances.
 
