@@ -1,8 +1,4 @@
-# Data Analytics Portfolio
-This section showcases the various Data Analysis projects completed using SQL and Power BI tools
-
-
-# Bicycle (AdventureWorks) Store-Dashboard
+# Bicycle (AdventureWorks) Store Analysis
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/07c60e09-03e3-45f7-a204-3b454075967c/ReportSectiond0276a7b2ed48bb206a0?experience=power-bi
 
