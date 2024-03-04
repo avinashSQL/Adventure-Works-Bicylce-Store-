@@ -1,5 +1,7 @@
 # Bicycle (AdventureWorks) Store Analysis
 
+This is the first project I created for my Data Analysis portfolio, as a part of Maven Analytics Power BI Course and developed a bit further using some tips from other resources — shout out to Guy In A Cube for some very cool tips and videos.
+
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/07c60e09-03e3-45f7-a204-3b454075967c/ReportSectiond0276a7b2ed48bb206a0?experience=power-bi
 
 ## Problem Statement
