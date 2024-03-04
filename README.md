@@ -2,6 +2,9 @@
 
 This is the first project I created for my Data Analysis portfolio, as a part of Maven Analytics Power BI Course and developed a bit further using some tips from other resources — shout out to Guy In A Cube for some very cool tips and videos.
 
+The Data
+This data comes from Maven Analytics and is hypothetical, as mentioned above. The data was stored in 3 separate tables, with 56,046 rows of sales data, 1,809 rows of returns data and 293 rows of product data. The raw data is provided as part of this course and so is only accessible as part of this course.
+
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/07c60e09-03e3-45f7-a204-3b454075967c/ReportSectiond0276a7b2ed48bb206a0?experience=power-bi
 
 ## Problem Statement
